@@ -2,6 +2,9 @@
 
 Welcome to the Course Registration System! This system allows users to manage course registration effortlessly. Follow the steps below to install and get started.
 
+## Database: MongoDb
+please do install and start mongodb server in your local
+
 ## Backend Installation
 
 1. Navigate to the backend directory:
